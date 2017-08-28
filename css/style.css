@@ -9,3 +9,13 @@ a { /* Comment */ color: /* Comment */ Red; }
 	background-color: White;
 	text-align: left;
 }
+
+#messages
+{
+	border-style:solid;
+	border-color:#fbc02d;
+	border-radius: 0.5px;
+	height: 200px;
+	margin-bottom: 10px;
+
+}
